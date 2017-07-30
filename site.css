@@ -1,0 +1,21 @@
+body {
+    min-height: 200vh;
+}
+
+.job-list {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.highlights {
+    background: rgba(20, 143, 206, 0.25);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.highlights p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
